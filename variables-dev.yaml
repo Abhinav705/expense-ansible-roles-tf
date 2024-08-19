@@ -1,0 +1,5 @@
+login_user: root
+login_host: db-dev.abhinavk.fun
+login_password: ExpenseApp1
+DB_HOST: db-dev.abhinavk.fun
+BACKEND_API_URL: backend.app-dev.abhinavk.fun
