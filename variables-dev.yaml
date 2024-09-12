@@ -3,3 +3,4 @@ login_host: db-dev.abhinavk.fun
 login_password: ExpenseApp1
 DB_HOST: db-dev.abhinavk.fun
 BACKEND_API_URL: backend.app-dev.abhinavk.fun
+nexus_url: 107.23.30.219:8081
